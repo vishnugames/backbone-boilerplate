@@ -1,2 +1,2 @@
 # backbone-boilerplate
-Boilerplate for Backbone + Grunt + Handlebar
+>Boilerplate for Backbone + Handlebar + Grunt
